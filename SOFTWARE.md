@@ -1,162 +1,167 @@
-# ?
-?
+# Open Source Software
 
 ## Daily Use
-Firefox
-Thunderbird
-KeepassXC
-GNUCash
-FreeTube
-LibreOffice
-VLC / MPV
-Tauon Music Box
+- Firefox
+- Thunderbird
+- KeepassXC
+- GNUCash
+- FreeTube
+- LibreOffice
+- VLC / MPV
+- Tauon Music Box
 
 ## Cloud
-MediaWiki
-MediaCMS
-Navidrome
-Jellyfin
-Photoprism / Immich
-Nextcloud
-Syncthing
-Gitea
-3CX
-Matrix (client: Element)
-Zulip
-Mattermost
-Focalboard
-FreshRSS
-SearXNG
+- MediaWiki
+- MediaCMS
+- Navidrome
+- Jellyfin
+- Photoprism / Immich
+- Nextcloud
+- Syncthing
+- Gitea
+- 3CX
+- Matrix (client: Element)
+- Zulip
+- Mattermost
+- Focalboard
+- FreshRSS
+- SearXNG
 
 ## Research
-Zotero
+- Zotero
+
+## UI Toolkits
+- gtk
+- qt
+- flutter
 
 ## Art
 
 ### Music
-Lilypond
-Frescobaldi
+- Lilypond
+- Frescobaldi
 
 ### Painting
-GIMP
-Krita
+- GIMP
+- Krita
 
 ### Photo Editing
-Rawtherapee
-Darktable
+- Rawtherapee
+- Darktable
 
 ### Video Production
-OBS Studio
-Tenacity
-Ardour
-LMMS
-ShotCut
-Olive
-Natron
+- OBS Studio
+- Tenacity
+- Ardour
+- LMMS
+- ShotCut
+- Olive
+- Natron
 
 ## Illustration
-Inkscape
+- Inkscape
 
 ## 3D Modeling
-Blender
-Blockbench
+- Blender
+- Blockbench
 
 ## Game Engines
-Unreal Engine
-Godot
-Ren'Py
-libgdx
+- Unreal Engine
+- Godot
+- Ren'Py
+- libgdx
+- bevy
 
 ## Games
-0AD
-Mindustry
-Minetest
-OpenTTD
-Prismlauncher (Minecraft)
-Supertuxkart
-The Battle for Wesnoth
-Xonotic
-Warzone2100
+- 0AD
+- Mindustry
+- Minetest
+- OpenTTD
+- Supertuxkart
+- The Battle for Wesnoth
+- Xonotic
+- Warzone2100
 
-Lutris
-Heroic Games Launcher
+- Prismlauncher (Minecraft)
+- Lutris
+- Heroic Games Launcher
 
 ### Writing
-Xournal++
-LaTeX
-TeXStudio
+- Xournal++
+- LaTeX
+- TeXStudio
 
 ## Science
 
 ### Chemistry
-Avogadro2
+- Avogadro2
 
 ### Geogology
-QGIS
+- QGIS
 
 ### Product Design
-FreeCAD
-OpenSCAD
-PrusaSlicer
+- FreeCAD
+- OpenSCAD
+- PrusaSlicer
 
 ### Computer Science
 
-#### Calculus
-Octave
+#### Math
+- Octave
+- RStudio
 
 #### Software Development
-VSCode (full open source build)
-Lite XL
-Draw.io
-Excalidraw
-FontForge
-BirdFont
-DBeaver
-OpenPLC
-Meld
-RStudio
-NeoVim
-NVChad
+- VSCode (full open source build)
+- Lite XL
+- Draw.io
+- Excalidraw
+- FontForge
+- BirdFont
+- DBeaver
+- OpenPLC
+- Meld
+- NeoVim
+- NVChad
 
 #### Hardware Development
-KiCAD
+- KiCAD
 
 #### Containers
-Docker
-Kubernetes
-OpenTofu
+- Docker
+- Kubernetes
+- OpenTofu
 
 #### Virtualization
-QEMU
+- QEMU
 
 #### Operating Systems
-Linux From Scratch
-Gentoo
-Arch Linux
-Linux Mint
-Alpine Linux
-OpenWRT
-QubesOS
-TAILS
-Automotive Grade Linux
+- Linux From Scratch
+- Gentoo
+- Arch Linux
+- Linux Mint
+- Alpine Linux
+- OpenWRT
+- QubesOS
+- TAILS
+- Automotive Grade Linux
 
 #### Operating System Apps
-Cinnamon
+- Cinnamon
 
-bspwm
-sxhkd
-feh
-rofi
-polybar
-dunst
-polkit
-picom
+- bspwm
+- sxhkd
+- feh
+- rofi
+- polybar
+- dunst
+- polkit
+- picom
 
-Alacritty
-Thunar
-Evince
-CoreCTRL
-Flameshot
+- Alacritty
+- Thunar
+- Evince
+- CoreCTRL
+- Flameshot
 
 #### Processor ISA
-RISC-V
+- RISC-V
